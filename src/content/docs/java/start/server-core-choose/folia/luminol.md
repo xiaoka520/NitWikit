@@ -8,7 +8,7 @@ Luminol 是一个非常棒的 Folia 分支！
 
 :::warning[仓库已删除]
 
-[LuminolMC/Luminol](https://github.com/LuminolMC/Luminol) 主仓库已于 2026 年 7 月 11 日被所有者删除，官方账号已经被注销。Luminol、LightingLuminol、Lophine均不再更新，最新版本为26.2
+[LuminolMC/Luminol](https://github.com/LuminolMC/Luminol) 主仓库已于 2026 年 7 月 11 日被所有者删除，官方账号已经被注销。Luminol、LightingLuminol、Lophine 均不再更新，最新版本为 26.2。
 
 :::
 
